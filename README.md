@@ -13,9 +13,9 @@ If at any point you have forgot the commands, check out the notion or search goo
 
 1. Make a new branch called "**task/exercise-1**"
 
-2. Create a file called "**journal.txt**" in the journals directory
+2. Create a file called "**journal.txt**".
 
-3. In the file, copy the following lines:
+3. In journal.txt, copy the following lines:
 
 		Step 1: Clone your repository
 		Step 2: Learn git today from the exercises in this readme
