@@ -5,7 +5,6 @@
 We will be doing some git practice by trying out some git commands with the repo you have cloned.
 
 
-
 If at any point you have forgot the commands, check out the notion or search google.
 
 
@@ -41,23 +40,7 @@ If at any point you have forgot the commands, check out the notion or search goo
 **
 
 1. Pull the latest changes from **main**
-
-2. Switch to "**task/exercise-1**"
-
-3. Change Step 2 to the following text and save:
-
-		Step 2: Learn the basics of git by using it in your Mod 3 project
-
-4. Git merge **main**
-
-5. Get a merge conflict
-
-6. Use VSCode merge conflict editor to resolve your conflict by choosing the local changes
-
-7. Stage your changes
-
-8. Commit your changes
-
-9. Push your branch
-
-10. Make another merge request and merge.
+2. Run `sh merge.sh` if you are on a mac or run `.\merge.ps1` if you are on windows
+3. Resolve the merge conflict by choosing the local changes
+4. Make a merge request towards main
+5. Merge the merge request
