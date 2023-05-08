@@ -1,14 +1,5 @@
 
-## Getting started
-
-
-We will be doing some git practice by trying out some git commands with the repo you have cloned.
-
-
-
-If at any point you have forgot the commands, check out the notion or search google.
-
-
+## Getting star
 
 ## **Exercise 1: Make a merge request and merge the changes into main**
 
